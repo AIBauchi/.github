@@ -1,12 +1,13 @@
-# Welcome to AI Bauchi Community
+### Welcome 
+# AI Bauchi Community
 
 ![AI Bauchi Logo](image.png)
 
-AI Bauchi is a vibrant AI community based in Bauchi State, Nigeria, committed to promoting the understanding and accessibility of Artificial Intelligence (AI) to all (AI4ALL). Founded by Nathaniel Handan in Oct. 2022, AI Bauchi mission is to empower individuals with the knowledge and skills to harness the potential of AI for personal and professional growth.
+AI Bauchi is a vibrant AI community based in Bauchi State, Nigeria, committed to promoting the understanding and accessibility of Artificial Intelligence (AI) to all (AI4ALL). 
+Founded by Nathaniel Handan in Oct. 2022, AI Bauchi mission is to empower individuals with the knowledge and skills to harness the potential of AI for personal and professional growth.
 
 ## About Us
 
-- **Founder & Current Community Lead:** Nathaniel Handan
 - **Location:** Abubakar Tafawa Balewa University, Bauchi, Nigeria
 
 ## Our Goals
@@ -27,6 +28,8 @@ AI Bauchi is a vibrant AI community based in Bauchi State, Nigeria, committed to
 ## Join Us
 
 Whether you're a seasoned AI professional or just curious about AI, we welcome you to be a part of our vibrant community. Let's work together to make AI indigenous and accessible to all in Bauchi State!
+
+- **Founder & Current Community Lead:** Nathaniel Handan
 
 ## Connect with Us
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
